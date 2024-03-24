@@ -1,0 +1,1 @@
+.drum-buttons{display:grid;grid-template-columns:1fr 1fr 1fr;margin:auto}#drum-machine{text-align:center;font-size:50px}#container{display:flex;align-items:center;margin-left:40vw;margin-top:20vh}.drum-pad{border:1px solid black;width:100px;height:100px;display:flex;justify-content:center;align-items:center;font-size:50px;background-color:beige}
